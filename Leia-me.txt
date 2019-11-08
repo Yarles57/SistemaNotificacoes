@@ -1,0 +1,2 @@
+Este é um código simples para exibir notificações em um site.
+O banco de dados que foi ultilizado está anexado
